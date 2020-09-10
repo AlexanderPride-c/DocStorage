@@ -14,6 +14,7 @@
 		2E7102B82509F30F004A4C8B /* DocStorage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2E7102B62509F30F004A4C8B /* DocStorage.xcdatamodeld */; };
 		2E7102BA2509F311004A4C8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E7102B92509F311004A4C8B /* Assets.xcassets */; };
 		2E7102BD2509F311004A4C8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E7102BB2509F311004A4C8B /* LaunchScreen.storyboard */; };
+		2E7102C5250A7906004A4C8B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2E7102C4250A7906004A4C8B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2E7102B92509F311004A4C8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E7102BC2509F311004A4C8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E7102BE2509F311004A4C8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E7102C4250A7906004A4C8B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2E7102BB2509F311004A4C8B /* LaunchScreen.storyboard */,
 				2E7102BE2509F311004A4C8B /* Info.plist */,
 				2E7102B62509F30F004A4C8B /* DocStorage.xcdatamodeld */,
+				2E7102C4250A7906004A4C8B /* .gitignore */,
 			);
 			path = DocStorage;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E7102C5250A7906004A4C8B /* .gitignore in Resources */,
 				2E7102BD2509F311004A4C8B /* LaunchScreen.storyboard in Resources */,
 				2E7102BA2509F311004A4C8B /* Assets.xcassets in Resources */,
 				2E7102B52509F30F004A4C8B /* Main.storyboard in Resources */,
